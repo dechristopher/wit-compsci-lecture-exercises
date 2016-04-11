@@ -1,0 +1,5 @@
+Line 1: 11 characters
+Line 2: 9 characters
+Line 3: 12 characters
+Line 4: 24 characters
+Line 5: 17 characters
